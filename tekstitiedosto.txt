@@ -2,3 +2,8 @@
 123456
 taas jotain
 neljäs kerta toden sanoo
+<<<<<<< Updated upstream
+uudestaan stashattavaa
+=======
+stashattavaa
+>>>>>>> Stashed changes
